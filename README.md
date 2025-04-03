@@ -1,4 +1,4 @@
-<a href="https://arrcay.7t4.us/channel/thomas_johnson_iii" rel="me"> Since github doesn't recognize my social media profile as a social media profile. </a>
+<a rel="me" href="https://arrcay.7t4.us/channel/thomas_johnson_iii" rel="me"> Since github doesn't recognize my social media profile as a social media profile. </a>
 
 <!--
 **7t4/7t4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
